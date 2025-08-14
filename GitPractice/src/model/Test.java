@@ -4,7 +4,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		String str = "Hello SpongeBob";
-		System.out.println(str);
+		String str2 = "Hello Gary";
+		System.out.println(str+", "+str2);
 	}
 
 }
